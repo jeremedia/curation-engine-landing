@@ -12,11 +12,13 @@ A static landing page for Curation Engine. Pure HTML/CSS/JS, no frameworks. Depl
 
 | Element | Value |
 |---------|-------|
-| **Primary Color** | CE Red (#DC3644) |
+| **Primary Color** | CE Red (#DC3644) — **NOTE: pre-v2.1 palette, see below** |
 | **Typography** | Avocado Sans (Thin, Regular, Bold) |
 | **Logo** | Nested frames creating architectural depth |
 | **Aesthetic** | Spatial editorial — inspired by gallery spaces |
 | **Motto** | "Infinite virtual → more precious real" |
+
+**Brand staleness warning:** This landing page uses the pre-v2.1 brand palette (`#DC3644` red). The authoritative brand guide v2.1 (`/Volumes/jer4TBv3/CE/CE ID Materials/brand-guide/index.html`) uses Terracotta Earth (`#B85C38`) as primary accent. When this page is next updated, align colors with the brand guide.
 
 ## Design Concept: "Entering the Exhibition"
 
