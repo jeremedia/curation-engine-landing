@@ -18,7 +18,7 @@ A static landing page for Curation Engine. Pure HTML/CSS/JS, no frameworks. Depl
 | **Aesthetic** | Spatial editorial — inspired by gallery spaces |
 | **Motto** | "Infinite virtual → more precious real" |
 
-**Brand staleness warning:** This landing page uses the pre-v2.1 brand palette (`#DC3644` red). The authoritative brand guide v2.1 (`/Volumes/jer4TBv3/CE/CE ID Materials/brand-guide/index.html`) uses Terracotta Earth (`#B85C38`) as primary accent. When this page is next updated, align colors with the brand guide.
+**Brand staleness warning:** This landing page uses the pre-v2.1 brand palette (`#DC3644` red). The authoritative brand guide v2.1 (`/Volumes/jer4TBv3/workspaces/personal/CE/CE ID Materials/brand-guide/index.html`) uses Terracotta Earth (`#B85C38`) as primary accent. When this page is next updated, align colors with the brand guide.
 
 ## Design Concept: "Entering the Exhibition"
 
@@ -97,5 +97,5 @@ Upload to any static host (GitHub Pages, Netlify, Vercel, Cloudflare Pages).
 ---
 
 **Related rooms**:
-- `/Volumes/jer4TBv3/CE/ce-enliterator` — The educational mission
-- `/Volumes/jer4TBv3/CE/ZICE_RAILS_APP` — Backend for waitlist integration
+- `/Volumes/jer4TBv3/workspaces/personal/CE/ce-enliterator` — The educational mission
+- `/Volumes/jer4TBv3/workspaces/personal/CE/ZICE_RAILS_APP` — Backend for waitlist integration
