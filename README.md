@@ -1,11 +1,24 @@
 # Curation Engine Landing Page
 
+> **Status audit (2026-05-03):** Static CE landing-page documentation. Verify public copy, brand colors, and form behavior against `index.html`, `styles.css`, and current CE brand guidance before publish use.
+
 A distinctive spatial editorial landing page for Curation Engine, built with the professional brand identity designed by Jeremy Roush's design team.
+
+## Status
+
+Static site, no build process. Verified on 2026-05-03 against `index.html`,
+`styles.css`, `script.js`, and the CE brand guide at
+`/Volumes/jer4TBv3/workspaces/personal/CE/CE ID Materials/brand-guide/index.html`.
+
+This page uses the pre-v2.1 red palette (`#DC3644`). The current brand guide
+uses Terracotta Earth (`#B85C38`) as the primary accent. Before deploying or
+redesigning this page, align the palette and review stale launch copy in
+`index.html` including "v1.0 ships in 90 days" and the 2025 footer.
 
 ## Design System
 
 **Brand Identity:**
-- **Color**: CE Red (#DC3644) - bold and memorable
+- **Color**: CE Red (#DC3644) - pre-v2.1 landing-page palette
 - **Typography**: Avocado Sans (Thin, Regular, Bold) - distinctive geometric sans-serif
 - **Logo**: Nested frames creating architectural depth
 - **Aesthetic**: Spatial editorial - inspired by gallery spaces

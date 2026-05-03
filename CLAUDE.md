@@ -1,12 +1,15 @@
 # CLAUDE.md — CE Landing Page
 
+> **Status audit (2026-05-03):** Static CE landing-page documentation. Verify public copy, brand colors, and form behavior against `index.html`, `styles.css`, and current CE brand guidance before publish use.
+
 This is the public face. When I'm in this room, I'm working on marketing and first impressions.
 
 ## What This Is
 
 A static landing page for Curation Engine. Pure HTML/CSS/JS, no frameworks. Deployable anywhere.
 
-**Status**: Complete. Maintenance mode.
+**Status**: Static site, maintenance mode. Verified on 2026-05-03 against
+`index.html`, `styles.css`, `script.js`, and the CE brand guide.
 
 ## The Brand
 
@@ -19,6 +22,9 @@ A static landing page for Curation Engine. Pure HTML/CSS/JS, no frameworks. Depl
 | **Motto** | "Infinite virtual → more precious real" |
 
 **Brand staleness warning:** This landing page uses the pre-v2.1 brand palette (`#DC3644` red). The authoritative brand guide v2.1 (`/Volumes/jer4TBv3/workspaces/personal/CE/CE ID Materials/brand-guide/index.html`) uses Terracotta Earth (`#B85C38`) as primary accent. When this page is next updated, align colors with the brand guide.
+
+**Launch-copy staleness warning:** `index.html` still says "v1.0 ships in 90
+days" and has a 2025 footer. Review those strings before public deployment.
 
 ## Design Concept: "Entering the Exhibition"
 
